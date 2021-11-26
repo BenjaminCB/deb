@@ -4,10 +4,14 @@ What is the main purpose of the envisionment phase in a software development pro
 
 To find out whether or not we are going in the right direction. We can write and think but, in most situations we can think of everything, and without envisioment small details and flaws will get go unnoticed, which is not great as we want to find these things as early in the development process as possible.
 
+To translate our ideas into something that we can evaluate together with the client.
+
 ### Exercise 2
 Why is it important to go through the envisioment phase?
 
 See exercise 1.
+
+It is an important aspect to create a valuable evaluation.
 
 ### Exercise 3
 How does envisionment support requirements elicitation?
