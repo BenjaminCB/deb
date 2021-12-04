@@ -9,14 +9,21 @@ What is the difference between ‘selective’ and ‘divided’ attention, and 
 
 Selective is when we select something to focus on something out of many, while divided means that we try to split our attention between multiple different things.
 
+> The cocktail party effect is the phenomenon of the brain's ability to focus one's auditory attention on a particular stimulus while filtering out a range of other stimuli, such as when a partygoer can focus on a single conversation in a noisy room.
+
 How is this relevant within user interface design?
+
+The interface should be easy to use and not be noisy to the point where you can no longer focus on one thing.
 
 ### Attention Exercise 3
 Find 6 examples of user interface designs, that support selective and divided attention (3 of each type of attention). Discuss in the group why each is selective or divided.
 
-- WoW
-- Destiny
--
+- Selective
+    - Phone
+    - Youtube
+- Divided
+    - WoW
+    - Control system
 
 ### Attention Exersise 4
 Discuss situations where you have experienced ‘the cocktail party effect’ – come up with concrete examples.
@@ -51,6 +58,8 @@ Roughly 30s (look up in book)
 
 How is this relevant to user interface design?
 
+Obviously the user should not have to remember things for longer than this.
+
 ### Exercise Exercise 10
 How many items of information can a user at maximum be expected to hold in their working memory at a time?
 
@@ -63,7 +72,7 @@ How many items should be in "lists"
 ### Attention Exercise 11
 How can we, through the use of GUI design principles, reduce the memory load of the user?
 
-Simple design
+Simple design. Gradually show more detailed information as the user actually needs it.
 
 ### Attention Exercise 12
 What is the difference between recall and recognition?
@@ -76,5 +85,9 @@ We should focus on recognition as it is easier for the user.
 
 ### Attention Exercise 13
 Find one example of ‘chunking’ (in apps, websites etc.) per group member, and discuss potential design improvements/further information grouping.
+
+- Products on websites
+- Menus
+- Filters
 
 Pick one of the examples and use pen and paper or Balsamiq to redesign the user interface. Apply gestalt principles and consider forms of attention in your design.
